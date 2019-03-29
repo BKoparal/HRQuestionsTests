@@ -11,10 +11,9 @@ package KodUygulamalari;
  */
 public class UcSayiSiralama {
 
-    static int x, y, z;
-
     public static void main(String[] args) {
         int a,b,c,temp;
+        
         a=5;b=4;c=9;
         
         //a ile b den küçüğü bulup a'ya atayalım
